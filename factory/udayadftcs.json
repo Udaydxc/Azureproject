@@ -1,0 +1,9 @@
+{
+	"name": "udayadftcs",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "913165b6-ba98-4adf-8e25-0707ab90b3cc",
+		"tenantId": "f18ea1e0-2c19-473e-8629-f030441e6455"
+	}
+}
